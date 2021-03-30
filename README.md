@@ -1,6 +1,6 @@
 ## Hi, I'm Cole (swifty) 👋
 <a href="https://discordapp.com/users/92700503183486976">
-  <img align="left" alt="swiftyspiffy | Discord" width="22px" src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/master/main/discord.svg" />
+  <img align="left" alt="swiftyspiffy | Discord" width="22px" src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/discord.svg" />
 </a>
 <a href="https://twitter.com/swiftyspiffy">
   <img align="left" alt="swiftyspiffy | Twitter" width="22px" src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/twitter.svg" />
@@ -14,10 +14,10 @@ I'm a full-stack software engineer living in Seattle. I'm currently at Twitch, b
 [📧 Email me][email] | [📄 View my resume][resume]
 
 ### Jobs
-- [<img src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/twitch.svg" alt="Twitch logo" width="22" height="22" />][twitch] **[Twitch.tv][twitch]**, 2021-present
-- [<img src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/aws.svg" alt="AWS logo" width="22" height="22" />][aws (lambda)] **[AWS Lambda][lambda]**, 2018-2021
-- [<img src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/aws.svg" alt="AWS logo" width="22" height="22" />][aws (ec2)] **[AWS EC2][ec2]**, 2018
-- [<img src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/micron.svg" alt="Micron Technologies logo" width="22" height="22" />][Micron Technologies] **[micron.com][micron]**, 2017
+- [<img src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/twitch.svg" alt="Twitch logo" width="16" height="16" />][twitch] **[Twitch.tv][twitch]**, 2021-present
+- [<img src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/aws.svg" alt="AWS logo" width="16" height="15" />][lambda] **[AWS Lambda][lambda]**, 2018-2021
+- [<img src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/aws.svg" alt="AWS logo" width="16" height="16" />][ec2] **[AWS EC2][ec2]**, 2018
+- [<img src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/micron.svg" alt="Micron Technologies logo" width="16" height="16" />][micron] **[Micron Technologies][micron]**, 2017
 
 ### Side projects
 - **TwitchLib** ([@TwitchLib/TwitchLib][twitchlib-github]), c# library for interacting with Twitch's API's, chat, pubsub, with an acommpanying Unity wrapper.
