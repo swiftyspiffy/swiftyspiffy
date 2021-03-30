@@ -31,7 +31,7 @@ I'm a full-stack software engineer living in Seattle. I'm currently at Twitch, b
 - Automation: YouTube channels, predictions, etc.
 
 [email]: mailto:swiftyspiffy@gmail.com
-[resume]: https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/resume/COLE 3-30-2021 RESUME public.pdf
+[resume]: https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/resume/COLE%203-30-2021%20RESUME%20public.pdf
 
 [twitch]: https://twitch.tv
 [lambda]: https://aws.amazon.com/lambda/
