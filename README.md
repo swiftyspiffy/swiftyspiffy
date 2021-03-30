@@ -1,6 +1,6 @@
 ## Hi, I'm Cole (swifty) 👋
 <a href="https://discordapp.com/users/92700503183486976">
-  <img align="left" alt="swiftyspiffy | Discord" width="22px" src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/discord.svg" />
+  <img align="left" alt="swiftyspiffy | Discord" width="22px" src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/swiftyspiffy">
   <img align="left" alt="swiftyspiffy | Twitter" width="22px" src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/twitter.svg" />
