@@ -5,6 +5,9 @@
 <a href="https://twitter.com/swiftyspiffy">
   <img align="left" alt="swiftyspiffy | Twitter" width="22px" src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/twitter.svg" />
 </a>
+<a href="https://twitch.com/swiftyspiffy">
+  <img align="left" alt="swiftyspiffy | Twitch" width="22px" src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/twitch.svg" />
+</a>
 <a href="https://www.linkedin.com/in/cole/">
   <img align="left" alt="Cole | LinkedIn" width="22px" src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/linkedin.svg" />
 </a>
