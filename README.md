@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Cole (swifty) 👋
+<a href="https://discordapp.com/users/92700503183486976">
+  <img align="left" alt="swiftyspiffy | Discord" width="22px" src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/swiftyspiffy">
+  <img align="left" alt="swiftyspiffy | Twitter" width="22px" src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Cole | LinkedIn" width="22px" src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/master/assets/linkedin.svg" />
+</a>
 
-<!--
-**swiftyspiffy/swiftyspiffy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a software engineer traversing the whole stack living in Seattle. I'm currently at Twitch, but I've spent significant time in the distributed systems and embedded software spaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
