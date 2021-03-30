@@ -10,6 +10,7 @@
 </a>
 
 <br />
+<br />
 
 I'm a full-stack software engineer living in Seattle. I'm currently at Twitch, but I've spent significant time in the distributed systems and embedded software spaces.
 
