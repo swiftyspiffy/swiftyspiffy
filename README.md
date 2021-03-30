@@ -1,4 +1,4 @@
-### Hi, I'm Cole (swifty) 👋
+## Hi, I'm Cole (swifty) 👋
 <a href="https://discordapp.com/users/92700503183486976">
   <img align="left" alt="swiftyspiffy | Discord" width="22px" src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/master/main/discord.svg" />
 </a>
@@ -9,24 +9,42 @@
   <img align="left" alt="Cole | LinkedIn" width="22px" src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/linkedin.svg" />
 </a>
 
+I'm a full-stack software engineer living in Seattle. I'm currently at Twitch, but I've spent significant time in the distributed systems and embedded software spaces.
 
-I'm a software engineer traversing the whole stack living in Seattle. I'm currently at Twitch, but I've spent significant time in the distributed systems and embedded software spaces.
-
-[📧 Email me][mailto:swiftyspiffy@gmail.com] | [📄 View my resume][https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/resume/COLE 3-30-2021 RESUME public.pdf]
+[📧 Email me][email] | [📄 View my resume][resume]
 
 ### Jobs
-- [<img src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/twitch.svg" alt="Twitch logo" width="22" height="22" />][twitch] **[Twitch.tv][https://twitch.tv]**, 2021-present
-- [<img src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/aws.svg" alt="AWS logo" width="22" height="22" />][aws (lambda)] **[aws.amazon.com/lambda][https://aws.amazon.com/lambda/]**, 2018-2021
-- [<img src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/aws.svg" alt="AWS logo" width="22" height="22" />][aws (ec2)] **[aws.amazon.com/ec2][https://aws.amazon.com/ec2/]**, 2018
-- [<img src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/micron.svg" alt="Micron Technologies logo" width="22" height="22" />][Micron Technologies] **[micron.com][https://www.micron.com/]**, 2017
+- [<img src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/twitch.svg" alt="Twitch logo" width="22" height="22" />][twitch] **[Twitch.tv][twitch]**, 2021-present
+- [<img src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/aws.svg" alt="AWS logo" width="22" height="22" />][aws (lambda)] **[AWS Lambda][lambda]**, 2018-2021
+- [<img src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/aws.svg" alt="AWS logo" width="22" height="22" />][aws (ec2)] **[AWS EC2][ec2]**, 2018
+- [<img src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/micron.svg" alt="Micron Technologies logo" width="22" height="22" />][Micron Technologies] **[micron.com][micron]**, 2017
 
 ### Side projects
-- **TwitchLib** ([@TwitchLib/TwitchLib][https://github.com/twitchlib/twitchlib]), c# library for interacting with Twitch's API's, chat, pubsub, with an acommpanying Unity wrapper.
-- **[TwitchTokenGenerator.com][https://twitchtokengenerator.com]**  ([@swiftyspiffy/twitch-token-generator][https://github.com/swiftyspiffy/twitch-token-generator]), developer tool for generating OAuth tokens for interacting programmatically with Twitch.
-- **[TwitchAudio.com][https://twitchaudio.com]** ([@swiftyspiffy/TwitchAudio.com][https://github.com/swiftyspiffy/TwitchAudio.com]), Shazam-like service for identifying song names, artists, and youtube/spotify links for songs playing on Twitch streams and clips
-- **[BurkeBlack][https://burkeblack.tv] / [TheLateShift][https://lateshift.tv]**, lead developer for Twitch streamer BurkeBlack and Twitch community TheLateShift. Develop websites, bots, moderation tools, metrics aggregators, VOD exporters, etc.
+- **TwitchLib** ([@TwitchLib/TwitchLib][twitchlib-github]), c# library for interacting with Twitch's API's, chat, pubsub, with an acommpanying Unity wrapper.
+- **[TwitchTokenGenerator.com][twitchtokengenerator]**  ([@swiftyspiffy/twitch-token-generator][twitchtokengenerator-github]), developer tool for generating OAuth tokens for interacting programmatically with Twitch.
+- **[TwitchAudio.com][twitchaudio]** ([@swiftyspiffy/TwitchAudio.com][twitchaudio-github]), Shazam-like service for identifying song names, artists, and youtube/spotify links for songs playing on Twitch streams and clips
+- **[BurkeBlack][burkeblack] / [TheLateShift][lateshift]**, lead developer for Twitch streamer BurkeBlack and Twitch community TheLateShift. Develop websites, bots, moderation tools, metrics aggregators, VOD exporters, etc.
 
 ### Hobbies
 - Video games: Rocket League, Flight Simulator, Counter-Strike, League of Legends, Halo, COD
 - Crypto: Decentralized, coin predictions, library development, flashloans
 - Automation: YouTube channels, predictions, etc.
+
+[email]: mailto:swiftyspiffy@gmail.com
+[resume]: https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/resume/COLE 3-30-2021 RESUME public.pdf
+
+[twitch]: https://twitch.tv
+[lambda]: https://aws.amazon.com/lambda/
+[ec2]: https://aws.amazon.com/ec2/
+[micron]: https://www.micron.com/
+
+[twitchlib-github]: https://github.com/twitchlib/twitchlib
+
+[twitchtokengenerator]: https://twitchtokengenerator.com
+[twitchtokengenerator-github]: https://github.com/swiftyspiffy/twitch-token-generator
+
+[twitchaudio]: https://twitchaudio.com
+[twitchaudio-github]: https://github.com/swiftyspiffy/TwitchAudio.com
+
+[burkeblack]: https://burkeblack.tv
+[lateshift]: https://lateshift.tv
