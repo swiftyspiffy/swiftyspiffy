@@ -11,13 +11,14 @@
 <a href="https://www.linkedin.com/in/cole/">
   <img align="left" alt="Cole | LinkedIn" width="22px" src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/linkedin.svg" />
 </a>
+<a href="mailto:swiftyspiffy@gmail.com">
+  📧 
+</a>
 
 <br />
 <br />
 
 I'm a full-stack software engineer living in Seattle. I'm currently at Twitch, but I've spent significant time in the distributed systems and embedded software spaces.
-
-[📧 Email me][email] | [📄 View my resume][resume]
 
 ### Jobs
 - [<img src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/twitch.svg" alt="Twitch logo" width="16" height="16" />][twitch] **[Twitch.tv][twitch]**, 2021-present
