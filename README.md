@@ -16,7 +16,6 @@
 </a>
 
 <br />
-<br />
 
 ### Jobs
 - [<img src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/twitch.svg" alt="Twitch logo" width="16" height="16" />][twitch] **[Twitch.tv][twitch]**, 2021-present
