@@ -18,8 +18,6 @@
 <br />
 <br />
 
-I'm a full-stack software engineer living in Seattle. I'm currently at Twitch, but I've spent significant time in the distributed systems and embedded software spaces.
-
 ### Jobs
 - [<img src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/twitch.svg" alt="Twitch logo" width="16" height="16" />][twitch] **[Twitch.tv][twitch]**, 2021-present
 - [<img src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/aws.svg" alt="AWS logo" width="16" height="15" />][lambda] **[AWS Lambda][lambda]**, 2018-2021
@@ -31,11 +29,6 @@ I'm a full-stack software engineer living in Seattle. I'm currently at Twitch, b
 - **[TwitchTokenGenerator.com][twitchtokengenerator]**  ([@swiftyspiffy/twitch-token-generator][twitchtokengenerator-github]), developer tool for generating OAuth tokens for interacting programmatically with Twitch.
 - **[TwitchAudio.com][twitchaudio]** ([@swiftyspiffy/TwitchAudio.com][twitchaudio-github]), Shazam-like service for identifying song names, artists, and youtube/spotify links for songs playing on Twitch streams and clips
 - **[BurkeBlack][burkeblack] / [TheLateShift][lateshift]**, lead developer for Twitch streamer BurkeBlack and Twitch community TheLateShift. Develop websites, bots, moderation tools, metrics aggregators, VOD exporters, etc.
-
-### Hobbies
-- Video games: Rocket League, Flight Simulator, Counter-Strike, League of Legends, Halo, COD
-- Crypto: Decentralized, coin predictions, library development, flashloans
-- Automation: YouTube channels, predictions, etc.
 
 [email]: mailto:swiftyspiffy@gmail.com
 [resume]: https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/resume/COLE%203-30-2021%20RESUME%20public.pdf
