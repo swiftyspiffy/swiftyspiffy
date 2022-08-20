@@ -1,4 +1,4 @@
-## Cole (swifty)
+## cole (swifty)
 <a href="https://discordapp.com/users/92700503183486976">
   <img align="left" alt="swiftyspiffy | Discord" width="22px" src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/discord.svg" />
 </a>
