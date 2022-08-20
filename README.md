@@ -17,13 +17,13 @@
 
 <br />
 
-### Jobs
+### jobs
 - [<img src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/twitch.svg" alt="Twitch logo" width="16" height="16" />][twitch] **[Twitch.tv][twitch]**, 2021-present
 - [<img src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/aws.svg" alt="AWS logo" width="16" height="15" />][lambda] **[AWS Lambda][lambda]**, 2018-2021
 - [<img src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/aws.svg" alt="AWS logo" width="16" height="16" />][ec2] **[AWS EC2][ec2]**, 2018
 - [<img src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/micron.svg" alt="Micron Technologies logo" width="16" height="16" />][micron] **[Micron Technologies][micron]**, 2017
 
-### Notable Side projects
+### notable side projects
 - **TwitchLib** ([@TwitchLib/TwitchLib][twitchlib-github]), c# library for interacting with Twitch's API's, chat, pubsub, with an acommpanying Unity wrapper.
 - **[TwitchTokenGenerator.com][twitchtokengenerator]**  ([@swiftyspiffy/twitch-token-generator][twitchtokengenerator-github]), developer tool for generating OAuth tokens for interacting programmatically with Twitch.
 - **[TwitchAudio.com][twitchaudio]** ([@swiftyspiffy/TwitchAudio.com][twitchaudio-github]), Shazam-like service for identifying song names, artists, and youtube/spotify links for songs playing on Twitch streams and clips
