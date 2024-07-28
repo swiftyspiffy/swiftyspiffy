@@ -26,7 +26,7 @@
 ### notable side projects
 - **TwitchLib** ([@TwitchLib/TwitchLib][twitchlib-github]), c# library for interacting with Twitch's API's, chat, pubsub, with an acommpanying Unity wrapper.
 - **[TwitchTokenGenerator.com][twitchtokengenerator]**  ([@swiftyspiffy/twitch-token-generator][twitchtokengenerator-github]), developer tool for generating OAuth tokens for interacting programmatically with Twitch.
-- **[TwitchAudio.com][twitchaudio]** ([@swiftyspiffy/TwitchAudio.com][twitchaudio-github]), Shazam-like service for identifying song names, artists, and youtube/spotify links for songs playing on Twitch streams and clips
+- **[TwitchRSS.com][twitchrss]**  ([@swiftyspiffy/TwitchRSS][twitchrss-github]), service for generating RSS feeds for Twitch streamer stream starts/ends, and channel updates.
 - **[BurkeBlack][burkeblack] / [TheLateShift][lateshift]**, lead developer for Twitch streamer BurkeBlack and Twitch community TheLateShift. Develop websites, bots, moderation tools, metrics aggregators, VOD exporters, etc.
 
 [email]: mailto:swiftyspiffy@gmail.com
@@ -41,6 +41,9 @@
 
 [twitchtokengenerator]: https://twitchtokengenerator.com
 [twitchtokengenerator-github]: https://github.com/swiftyspiffy/twitch-token-generator
+
+[twitchrss]: https://twitchrss.com
+[twitchrss-github]: https://github.com/swiftyspiffy/twitchrss
 
 [twitchaudio]: https://twitchaudio.com
 [twitchaudio-github]: https://github.com/swiftyspiffy/TwitchAudio.com
