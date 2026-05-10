@@ -18,10 +18,10 @@
 <br />
 
 ### jobs
-- <a href="https://twitch.tv"><img src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/twitch.svg" alt="Twitch logo" width="16" height="16" /></a> **[Twitch.tv][twitch]**, 2021-present
-- <a href="https://aws.amazon.com/lambda/"><img src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/aws.svg" alt="AWS logo" width="16" height="15" /></a> **[AWS Lambda][lambda]**, 2018-2021
-- <a href="https://aws.amazon.com/ec2/"><img src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/aws.svg" alt="AWS logo" width="16" height="16" /></a> **[AWS EC2][ec2]**, 2018
-- <a href="https://www.micron.com/"><img src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/micron.svg" alt="Micron Technologies logo" width="16" height="16" /></a> **[Micron Technologies][micron]**, 2017
+- <a href="https://twitch.tv"><img align="center" src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/twitch.svg" alt="Twitch logo" width="16" height="16" /></a> **[Twitch.tv][twitch]**, 2021-present
+- <a href="https://aws.amazon.com/lambda/"><img align="center" src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/aws.svg" alt="AWS logo" width="16" height="15" /></a> **[AWS Lambda][lambda]**, 2018-2021
+- <a href="https://aws.amazon.com/ec2/"><img align="center" src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/aws.svg" alt="AWS logo" width="16" height="16" /></a> **[AWS EC2][ec2]**, 2018
+- <a href="https://www.micron.com/"><img align="center" src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/micron.svg" alt="Micron Technologies logo" width="16" height="16" /></a> **[Micron Technologies][micron]**, 2017
 
 ### notable side projects
 - **TwitchLib** ([@TwitchLib/TwitchLib][twitchlib-github]), c# library for interacting with Twitch's API's, chat, pubsub, with an acommpanying Unity wrapper.
