@@ -28,6 +28,10 @@
 - **[TwitchTokenGenerator.com][twitchtokengenerator]**  ([@swiftyspiffy/twitch-token-generator][twitchtokengenerator-github]), developer tool for generating OAuth tokens for interacting programmatically with Twitch.
 - **[TwitchRSS.com][twitchrss]**  ([@swiftyspiffy/TwitchRSS][twitchrss-github]), service for generating RSS feeds for Twitch streamer stream starts/ends, and channel updates.
 - **[BurkeBlack][burkeblack] / [TheLateShift][lateshift]**, lead developer for Twitch streamer BurkeBlack and Twitch community TheLateShift. Develop websites, bots, moderation tools, metrics aggregators, VOD exporters, etc.
+  - Apps: iOS ([repo][burkeblackapp-ios], [App Store][burkeblackapp-ios-store]) / Android ([repo][burkeblackapp-android], [Google Play][burkeblackapp-android-store])
+
+### reverse engineering
+- **[LuxerOneResearch][luxerone]**, research and documentation for interacting with LuxerOne package locker API and terminals.
 
 [email]: mailto:swiftyspiffy@gmail.com
 [resume]: https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/resume/COLE%203-30-2021%20RESUME%20public.pdf
@@ -50,3 +54,9 @@
 
 [burkeblack]: https://burkeblack.tv
 [lateshift]: https://lateshift.tv
+[burkeblackapp-ios]: https://github.com/swiftyspiffy/BurkeBlackApp-iOS
+[burkeblackapp-ios-store]: https://apps.apple.com/us/app/dirty-skull/id6761034588
+[burkeblackapp-android]: https://github.com/swiftyspiffy/BurkeBlackApp-Android
+[burkeblackapp-android-store]: https://play.google.com/store/apps/details?id=com.swiftyspiffy.burkeblackapp
+
+[luxerone]: https://github.com/swiftyspiffy/LuxerOneResearch
